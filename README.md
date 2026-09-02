@@ -1,0 +1,23 @@
+# GitHub Achievements — a tested reference
+
+A hands-on reference for GitHub profile achievements, verified against a live account with the `gh` CLI. Everything documented here was exercised for real — no recycled listicles.
+
+## Why this exists
+
+Most achievement guides copy each other and drift out of date. This one starts from what actually unlocked badges on a live account, and grows as each requirement gets re-tested.
+
+## Earnable today
+
+| Achievement | Requirement |
+| --- | --- |
+| Pull Shark | Opened a pull request that was merged |
+| Pair Extraordinaire | Co-authored commits on a merged pull request |
+| Quickdraw | Closed an issue or PR within 5 minutes of opening it |
+| YOLO | Merged a pull request with zero reviews |
+| Galaxy Brain | Had your answer accepted in a Q&A discussion |
+| Starstruck | Created a repository that earned 16 stars |
+| Public Sponsor | Publicly sponsored an open source contributor |
+
+## Coming soon
+
+Tier thresholds, retired achievements, and per-badge practical notes are in review.
