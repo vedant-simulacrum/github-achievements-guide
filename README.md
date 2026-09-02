@@ -21,3 +21,14 @@ Most achievement guides copy each other and drift out of date. This one starts f
 ## Coming soon
 
 Tier thresholds, retired achievements, and per-badge practical notes are in review.
+
+## Tier thresholds
+
+Four achievements have bronze, silver and gold tiers on top of the default badge:
+
+| Achievement | Default | Bronze | Silver | Gold |
+| --- | --- | --- | --- | --- |
+| Pull Shark | 2 merged PRs | 16 | 128 | 1024 |
+| Pair Extraordinaire | 1 co-authored merged PR | 10 | 24 | 48 |
+| Galaxy Brain | 2 accepted answers | 8 | 16 | 32 |
+| Starstruck | 16 stars | 128 | 512 | 4096 |
