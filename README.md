@@ -41,3 +41,11 @@ Not worth chasing — these can no longer be unlocked:
 - **Mars 2020 Contributor** — required contributing to code used by the Ingenuity helicopter mission
 - **Heart On Your Sleeve** — stuck in testing, currently unearnable
 - **Open Sourcerer** — stuck in testing, currently unearnable
+
+## Practical notes
+
+- **Quickdraw**: open an issue and close it within 5 minutes. Works on any repo where you can close issues.
+- **YOLO**: merge your own PR with zero reviews. Personal repos without branch protection allow this by default.
+- **Pair Extraordinaire**: add a `Co-authored-by: Name <email>` trailer after a blank line in the commit message. The email must resolve to a GitHub account.
+- **Galaxy Brain**: answers in a **Q&A** discussion can be marked as the accepted answer; the badge counts accepted answers, not upvotes.
+- **Profile highlights are not achievements**: `Pro` comes with a paid plan or the Student Developer Pack; `Developer Program Member` comes from registering an integration at github.com/developer/register. They render next to achievements but are earned differently.
