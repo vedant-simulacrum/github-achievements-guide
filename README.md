@@ -32,3 +32,12 @@ Four achievements have bronze, silver and gold tiers on top of the default badge
 | Pair Extraordinaire | 1 co-authored merged PR | 10 | 24 | 48 |
 | Galaxy Brain | 2 accepted answers | 8 | 16 | 32 |
 | Starstruck | 16 stars | 128 | 512 | 4096 |
+
+## Retired and unearnable
+
+Not worth chasing — these can no longer be unlocked:
+
+- **Arctic Code Vault Contributor** — required contributing to a repo snapshotted by the 2020 Archive Program
+- **Mars 2020 Contributor** — required contributing to code used by the Ingenuity helicopter mission
+- **Heart On Your Sleeve** — stuck in testing, currently unearnable
+- **Open Sourcerer** — stuck in testing, currently unearnable
